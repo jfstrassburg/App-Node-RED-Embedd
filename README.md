@@ -1,4 +1,17 @@
-# node-red-within-express #
+# App-Node-RED-Embedd #
+Node-RED v3.1.9
+Express v4.17.1
+Node v21.6
+
+
+### Basic authorization flows, cookie, headers are already built in this version ###
+
+Links:
+[https://github.com/rozek/node-red-authorization-examples]
+[https://github.com/rozek/node-red-user-management-example]
+
+# This application is based on the development by rozek/node-red-within-express #
+[https://github.com/rozek/node-red-within-express]
 
 This repository contains an HTTP(S) server based on [Node.js](https://nodejs.org/en/) with [Express.js](http://expressjs.com/) including an embedded [Node-RED](https://nodered.org/) instance.
 
@@ -29,7 +42,7 @@ You may easily install and run this server on your machine.
 
 Just install [NPM](https://docs.npmjs.com/) according to the instructions for your platform and follow these steps:
 
-1. either clone this repository using [git](https://git-scm.com/) or [download a ZIP archive](https://github.com/rozek/node-red-within-express/archive/refs/heads/main.zip) with its contents to your disk and unpack it there 
+1. either clone this repository
 2. open a shell and navigate to the root directory of this repository
 3. run `npm install` in order to install the server
 
