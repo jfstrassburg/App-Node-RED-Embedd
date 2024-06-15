@@ -1,0 +1,9 @@
+{
+    "chai": {
+        "spec": "chai",
+        "module": "chai",
+        "subpath": "",
+        "builtin": false,
+        "known": false
+    }
+}

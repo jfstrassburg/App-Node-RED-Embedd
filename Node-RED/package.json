@@ -2,5 +2,11 @@
     "name": "node-red-project",
     "description": "A Node-RED Project",
     "version": "0.0.1",
-    "private": true
+    "private": true,
+    "dependencies": {
+        "chai": "^5.1.1",
+        "node-red-contrib-components": "~0.3.5",
+        "node-red-contrib-reusable-flows": "~1.0.0",
+        "node-red-node-email": "~2.2.1"
+    }
 }
